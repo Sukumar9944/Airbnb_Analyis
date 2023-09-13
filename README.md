@@ -29,17 +29,17 @@ To get started with this project, you can follow these steps:
 2. Install the required dependencies using pip : pip install -r requirements.txt
 
 ## Usage
-Launch the Streamlit app by running main.py.
-Use the app to explore geospatial data, select countries and cities, set price filters, and view recommendations.
-Analyze the exploratory data analysis (EDA) visualizations for insights into Airbnb data.
+- Launch the Streamlit app by running main.py.
+- Use the app to explore geospatial data, select countries and cities, set price filters, and view recommendations.
+- Analyze the exploratory data analysis (EDA) visualizations for insights into Airbnb data.
 
 ## Exploratory Data Analysis
 The project includes an EDA section with several interactive visualizations, including:
 
-Price Analysis by Country and City.
-Distribution of Price by Country.
-Distribution of Price using Box Plot.
-Scatter Plot by Price and Availability.
+- Price Analysis by Country and City.
+- Distribution of Price by Country.
+- Distribution of Price using Box Plot.
+- Scatter Plot by Price and Availability.
 
 ## Contributing
 Contributions to this project are welcome! If you have ideas for improvements, new features, or bug fixes, please open an issue or submit a pull request.
