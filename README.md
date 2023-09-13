@@ -6,7 +6,6 @@ This project is an exploration and analysis of Airbnb data with a focus on geosp
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
 - [Usage](#usage)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Contributing](#contributing)
@@ -21,13 +20,13 @@ The Airbnb Geospatial Analysis project provides users with tools to analyze Airb
 - Recommendations based on user-defined criteria, including price range.
 
 ## Getting Started
-o get started with this project, you can follow these steps:
+To get started with this project, you can follow these steps:
 
 1. Clone the repository to your local machine:
 
    ```bash
    git clone https://github.com/your-username/airbnb-geospatial-analysis.git
-## Install the required dependencies using pip : pip install -r requirements.txt
+2. Install the required dependencies using pip : pip install -r requirements.txt
 
 ## Usage
 Launch the Streamlit app by running main.py.
